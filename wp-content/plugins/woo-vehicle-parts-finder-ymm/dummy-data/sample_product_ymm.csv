@@ -1,0 +1,13 @@
+item_year,item_make,item_model,item_engine,item_product
+2000,Audi,R8,3.8L V6,happy_ninja
+2000,Mercedes Benz,300SL,4.8L V6,demo_product
+2000,BMW,M3,2.4L V4,woo_ninja
+2000,Audi,A8,1.0L V7,happy_ninja
+1998,Audi,A4,2.4L V4,woo_ninja
+1998,Mercedes Benz,C-Class,1.0L V7,demo_product
+1998,Mercedes Benz,SLR McLaren,3.8L V6,woo_ninja
+1998,BMW,Z4,4.8L V6,happy_ninja
+2013,Audi,TT,2.4L V4,happy_ninja
+2013,BMW,3 Series,1.0L V7,woo_ninja
+2015,BMW,X3,4.8L V6,woo_ninja
+2015,Mercedes Benz,S-Class Hybrid,3.8L V6,demo_product

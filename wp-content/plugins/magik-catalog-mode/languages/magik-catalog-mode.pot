@@ -1,0 +1,151 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-08-29 16:58+0530\n"
+"PO-Revision-Date: 2018-08-29 16:58+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;esc_html__;esc_html_e;esc_attr_e;esc_attr__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/magik-menu-panel.php:177
+msgid "Magik Plugins Dashboard"
+msgstr ""
+
+#: includes/magik-menu-panel.php:188 magik-catalog-mode.php:118
+#: magik-catalog-mode.php:119
+msgid "Magik Catalog Mode"
+msgstr ""
+
+#: includes/magik-menu-panel.php:198
+msgid "Magik Infinite Scroller"
+msgstr ""
+
+#: includes/magik-menu-panel.php:208
+msgid "Magik Social Share"
+msgstr ""
+
+#: includes/magik-menu-panel.php:218
+msgid "Magik Woo Ajax Search"
+msgstr ""
+
+#: includes/magik-menu-panel.php:227
+msgid "Magik Woo Category Image"
+msgstr ""
+
+#: includes/magik-menu-panel.php:237
+msgid "Magik Woo Search By Tag"
+msgstr ""
+
+#: magik-catalog-mode.php:164
+msgid "General Setting"
+msgstr ""
+
+#: magik-catalog-mode.php:171
+msgid "Enable Magik WooCommerce Catalog Mode"
+msgstr ""
+
+#: magik-catalog-mode.php:180
+msgid "Full Catalog Mode Setting"
+msgstr ""
+
+#: magik-catalog-mode.php:188
+msgid "Disable Shopping Option"
+msgstr ""
+
+#: magik-catalog-mode.php:196
+msgid "Catalog Mode settings"
+msgstr ""
+
+#: magik-catalog-mode.php:203
+msgid "Hide \"Add to Cart\" in shop/category page"
+msgstr ""
+
+#: magik-catalog-mode.php:210
+msgid "Hide \"Add to Cart\" in Product Detail page"
+msgstr ""
+
+#: magik-catalog-mode.php:218
+msgid "Enquiry Form Settings"
+msgstr ""
+
+#: magik-catalog-mode.php:225 magik-catalog-mode.php:432
+msgid "Enable Enquiry Form"
+msgstr ""
+
+#: magik-catalog-mode.php:233
+msgid "Enable Shortcode Enquiry Form"
+msgstr ""
+
+#: magik-catalog-mode.php:242
+msgid "Show Enquiry Form on All Product Page"
+msgstr ""
+
+#: magik-catalog-mode.php:250
+msgid "Add Contact Form 7 Shortcode Here"
+msgstr ""
+
+#: magik-catalog-mode.php:346
+msgid ""
+"Hide and disable \"Cart\" page, \"Checkout\" page and all \"Add to Cart\" "
+"buttons"
+msgstr ""
+
+#: magik-catalog-mode.php:423
+msgid "Enable Catalog Mode"
+msgstr ""
+
+#: magik-catalog-mode.php:424
+msgid "Tick checkbox to Enable Catalog Mode for this product"
+msgstr ""
+
+#: magik-catalog-mode.php:433
+msgid "Tick checkbox to show enquiry form on product detail page"
+msgstr ""
+
+#: magik-catalog-mode.php:556
+msgid "Please enter a name"
+msgstr ""
+
+#: magik-catalog-mode.php:560
+msgid "Please enter a valid email"
+msgstr ""
+
+#: magik-catalog-mode.php:606
+msgid "Request Sent Successfully."
+msgstr ""
+
+#: magik-catalog-mode.php:655
+msgid "Send Quote"
+msgstr ""
+
+#: magik-catalog-mode.php:668 magik-catalog-mode.php:697
+msgid "Quotation Form"
+msgstr ""
+
+#: magik-catalog-mode.php:705
+msgid "Name"
+msgstr ""
+
+#: magik-catalog-mode.php:711
+msgid "Email"
+msgstr ""
+
+#: magik-catalog-mode.php:717
+msgid "Message"
+msgstr ""
+
+#: magik-catalog-mode.php:718
+msgid "Notes on your request..."
+msgstr ""
+
+#: magik-catalog-mode.php:724
+msgid "Send Request"
+msgstr ""

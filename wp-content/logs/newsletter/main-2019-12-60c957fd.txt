@@ -1,0 +1,1 @@
+13-12-2019 08:00:42 - ERROR - m: 30,7 MB, u: 0 - Blocked by transient newsletter_main_engine set 0 seconds ago

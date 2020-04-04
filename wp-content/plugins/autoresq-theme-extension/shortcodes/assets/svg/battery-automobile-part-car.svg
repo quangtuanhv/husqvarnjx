@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="rot-038" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g>
+	<rect x="16" y="11" style="fill:#F4C70E;" width="32" height="5"/>
+	<rect x="6" y="22" style="fill:#F4C70E;" width="52" height="3"/>
+	<rect x="6" y="53" style="fill:#F4C70E;" width="52" height="3"/>
+	<polygon style="fill:#F4C70E;" points="30,29 24,41 31,41 28,49 40,37 31,37 38,29  "/>
+	<path style="fill:#333333;" d="M63,23v-8h-6V9H47v6H17V9H7v6H1v8h4v32H1v8h62v-8h-4V23H63z M3,21v-4h6v-6h6v6h34v-6h6v6h6v4h-2H5H3   z M61,57v4H3v-4h2h54H61z M57,55H7V23h50V55z"/>
+	<rect x="20" y="11" style="fill:#333333;" width="24" height="2"/>
+	<path style="fill:#333333;" d="M25.442,52.972L30.414,48H55v-2H32.414l10-10h-9.21l3.5-4H55v-2H38.454l1.75-2H29.382l-1,2H9v2   h18.382l-5,10h7.175L28,46.151V46H9v2h18.307L25.442,52.972z M25.618,40l5-10h5.178l-7,8h8.79l-7.028,7.028L32.443,40H25.618z"/>
+	<rect x="9" y="3" style="fill:#333333;" width="6" height="2"/>
+	<polygon style="fill:#333333;" points="51,7 53,7 53,5 55,5 55,3 53,3 53,1 51,1 51,3 49,3 49,5 51,5  "/>
+	<rect x="9" y="25" style="fill:#333333;" width="2" height="2"/>
+	<rect x="13" y="25" style="fill:#333333;" width="2" height="2"/>
+	<rect x="9" y="51" style="fill:#333333;" width="2" height="2"/>
+	<rect x="53" y="25" style="fill:#333333;" width="2" height="2"/>
+	<rect x="49" y="25" style="fill:#333333;" width="2" height="2"/>
+</g>
+
+	</svg>

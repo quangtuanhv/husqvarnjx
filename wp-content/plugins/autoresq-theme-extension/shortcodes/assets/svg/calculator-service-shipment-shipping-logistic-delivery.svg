@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="rot-045" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g>
+	<g>
+		<polygon style="fill:#F4C70E;" points="25,13 25,9 49,9 49,15 55,15 55,31 39,31 39,13   "/>
+	</g>
+	<g>
+		<rect x="21" y="45" style="fill:#F4C70E;" width="14" height="14"/>
+	</g>
+	<g>
+		<path style="fill:#333333;" d="M5,43h14V29H5V43z M7,31h10v10H7V31z"/>
+		<path style="fill:#333333;" d="M5,59h14V45H5V59z M7,47h10v10H7V47z"/>
+		<path style="fill:#333333;" d="M21,43h14V29H21V43z M23,31h10v10H23V31z"/>
+		<polygon style="fill:#333333;" points="13,33 11,33 11,35 9,35 9,37 11,37 11,39 13,39 13,37 15,37 15,35 13,35   "/>
+		<rect x="25" y="35" style="fill:#333333;" width="6" height="2"/>
+		<polygon style="fill:#333333;" points="14.293,48.293 12,50.586 9.707,48.293 8.293,49.707 10.586,52 8.293,54.293 9.707,55.707     12,53.414 14.293,55.707 15.707,54.293 13.414,52 15.707,49.707   "/>
+		<rect x="25" y="49" style="fill:#333333;" width="6" height="2"/>
+		<rect x="25" y="53" style="fill:#333333;" width="6" height="2"/>
+		<path style="fill:#333333;" d="M63,1H25v4h-4v8H1v50h38v-4h20v-4h4V1z M37,15v10H3V15H37z M3,61V27h34v34H3z M39,57v-2h12v-2H39    v-2h16v-2H39v-2h16v-2H39v-2h16v-2H39v-2h16v-2H39v-2h16v-2H39V13H23V7h26v8h8v42H39z M51,8.414L55.586,13H51V8.414z M61,53h-2    V13.586L50.414,5H27V3h34V53z"/>
+		<rect x="53" y="53" style="fill:#333333;" width="2" height="2"/>
+	</g>
+</g>
+
+	</svg>

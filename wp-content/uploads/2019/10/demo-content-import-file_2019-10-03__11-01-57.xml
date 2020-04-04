@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:wp="http://wordpress.org/export/1.2/"
+>
+    <channel>
+        <title>boost</title>
+        <link>http://demo3.wpopal.com/boost</link>
+        <description>All-in-one WooCommerce WordPress Theme</description>
+        <pubDate>Mon, 26 Mar 2018 06:22:43 +0000</pubDate>
+        <language>en-US</language>
+        <wp:wxr_version>1.2</wp:wxr_version>
+        <wp:base_site_url>http://demo3.wpopal.com/boost</wp:base_site_url>
+        <wp:base_blog_url>http://demo3.wpopal.com/boost</wp:base_blog_url>
+        <wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[admin@admin.com]]></wp:author_email><wp:author_display_name><![CDATA[admin]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+        <generator>https://wordpress.org/?v=4.9.4</generator>
+        <item>
+  <title>Footer 07_06</title>
+  <link>http://demo3.wpopal.com/boost/footer/footer-07_06/</link>
+  <pubDate>Wed, 18 Apr 2018 03:32:57 +0000</pubDate>
+  <dc:creator>admin</dc:creator>
+  <guid isPermaLink="false">http://demo3.wpopal.com/boost/?post_type=footer&amp;p=7520</guid>
+  <description/>
+  <content:encoded><![CDATA[[vc_row full_width="stretch_row" css=".vc_custom_1523930629656{border-top-width: 1px !important;padding-top: 20px !important;padding-bottom: 50px !important;border-top-color: #f7f7f7 !important;border-top-style: solid !important;}"][vc_column offset="vc_col-lg-offset-0 vc_col-md-4"][vc_custom_heading text="Newsletter" font_container="tag:h3|font_size:28px|text_align:left|color:%23212121|line_height:1.6" use_theme_fonts="yes" enable_underline_wrap="" css=".vc_custom_1523931529561{margin-top: -5px !important;margin-bottom: 23px !important;}"][vc_column_text colors_schema="light" el_class="text-white" css=".vc_custom_1523872249487{margin-bottom: 15px !important;}"]Lorem Khaled Ipsum is a major key to success. Egg whites, turkey sausage, wheat toast, water.[/vc_column_text][otf_mc4wp_form style="style-3" form_id="2263" css=".vc_custom_1523931807513{margin-bottom: 30px !important;border-radius: 30px !important;}"][/vc_column][vc_column offset="vc_col-md-offset-1 vc_col-md-7"][vc_row_inner][vc_column_inner width="1/3"][vc_wp_custommenu opal_custommenu_columns="1" title="Information" nav_menu="209"][/vc_column_inner][vc_column_inner width="1/3"][vc_wp_custommenu opal_custommenu_columns="1" nav_menu="32" title="Custom Block"][/vc_column_inner][vc_column_inner width="1/3"][vc_wp_custommenu opal_custommenu_columns="1" nav_menu="33" title="Contact Us"][/vc_column_inner][/vc_row_inner][/vc_column][/vc_row][vc_row equal_height="yes" content_placement="middle" css=".vc_custom_1523928801520{border-top-width: 1px !important;padding-top: 12px !important;padding-bottom: 55px !important;border-top-color: #ebebeb !important;border-top-style: solid !important;}"][vc_column offset="vc_col-xs-12"][otf_menu_social title="" shape="o-round" align="text-center"][vc_column_text css=".vc_custom_1523929748956{margin-top: 35px !important;margin-bottom: 0px !important;}"]
+<p style="text-align: center;">Copyright © 2018 - <span style="color: #f7ab00;">ezBoozt</span>. All rights reserved.</p>
+[/vc_column_text][/vc_column][/vc_row]]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>7520</wp:post_id>
+  <wp:post_date>2018-04-18 03:32:57</wp:post_date>
+  <wp:post_date_gmt>2018-04-18 03:32:57</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>footer-07_06</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>footer</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>_vc_post_settings</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>slide_template</wp:meta_key>
+    <wp:meta_value><![CDATA[default]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+    <wp:meta_value><![CDATA[true]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpb_shortcodes_custom_css</wp:meta_key>
+    <wp:meta_value><![CDATA[.vc_custom_1523930629656{border-top-width: 1px !important;padding-top: 20px !important;padding-bottom: 50px !important;border-top-color: #f7f7f7 !important;border-top-style: solid !important;}.vc_custom_1523928801520{border-top-width: 1px !important;padding-top: 12px !important;padding-bottom: 55px !important;border-top-color: #ebebeb !important;border-top-style: solid !important;}.vc_custom_1523931529561{margin-top: -5px !important;margin-bottom: 23px !important;}.vc_custom_1523872249487{margin-bottom: 15px !important;}.vc_custom_1523931807513{margin-bottom: 30px !important;border-radius: 30px !important;}.vc_custom_1523929748956{margin-top: 35px !important;margin-bottom: 0px !important;}]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Header 07_06</title>
+  <link>http://demo3.wpopal.com/boost/header/header-07_06/</link>
+  <pubDate>Wed, 18 Apr 2018 03:28:14 +0000</pubDate>
+  <dc:creator>admin</dc:creator>
+  <guid isPermaLink="false">http://demo3.wpopal.com/boost/?post_type=header&amp;p=7519</guid>
+  <description/>
+  <content:encoded><![CDATA[[vc_row full_width="stretch_row" equal_height="yes" content_placement="middle" bg_position="top-center" css=".vc_custom_1526983251937{padding-top: 22px !important;padding-bottom: 22px !important;background: #ffffff url(http://demo3.wpopal.com/boost/wp-content/uploads/2018/01/bg_07_06-11.png?id=) !important;background-position: 0 0 !important;background-repeat: no-repeat !important;}"][vc_column width="1/4"][otf_header_logo][/vc_column][vc_column width="1/2" colors_schema="light"][otf_header_main_navigation display="full" logo="" smooth_menu=""][/vc_column][vc_column width="1/4"][otf_flex_item][otf_header_account style="icon"][otf_header_wishlist][otf_header_cart][/vc_column][/vc_row]]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>7519</wp:post_id>
+  <wp:post_date>2018-04-18 03:28:14</wp:post_date>
+  <wp:post_date_gmt>2018-04-18 03:28:14</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>header-07_06</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>header</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>_vc_post_settings</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:0:{}}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>slide_template</wp:meta_key>
+    <wp:meta_value><![CDATA[default]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+    <wp:meta_value><![CDATA[true]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>otf_enable_header_absolute</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>otf_enable_cart</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>otf_enable_search_form</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpb_shortcodes_custom_css</wp:meta_key>
+    <wp:meta_value><![CDATA[.vc_custom_1526983251937{padding-top: 22px !important;padding-bottom: 22px !important;background: #ffffff url(http://demo3.wpopal.com/boost/wp-content/uploads/2018/01/bg_07_06-11.png?id=) !important;background-position: 0 0 !important;background-repeat: no-repeat !important;}]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+<item>
+  <title>Home 07_06</title>
+  <link>http://demo3.wpopal.com/boost/home-07_06/</link>
+  <pubDate>Wed, 18 Apr 2018 03:37:12 +0000</pubDate>
+  <dc:creator>admin</dc:creator>
+  <guid isPermaLink="false">http://demo3.wpopal.com/boost/?page_id=7522</guid>
+  <description/>
+  <content:encoded><![CDATA[[vc_row full_width="stretch_row_content_no_spaces" bg_position="bottom-center" css=".vc_custom_1524017165103{background-image: url(http://demo3.wpopal.com/boost/wp-content/uploads/2018/01/bg_07_06-11.png) !important;}"][vc_column bg_position="center-center" offset="vc_hidden-md vc_hidden-sm vc_hidden-xs" css=".vc_custom_1523866505541{padding-top: 0px !important;padding-right: 80px !important;padding-bottom: 100px !important;padding-left: 80px !important;}"][rev_slider_vc alias="opal-slide-other-6"][/vc_column][vc_column offset="vc_hidden-lg" css=".vc_custom_1524018542635{margin-top: 0px !important;padding-top: 0px !important;}"][rev_slider_vc alias="opal-slide-other-6"][/vc_column][/vc_row][vc_row full_width="stretch_row_content_no_spaces"][vc_column css_animation="none" css=".vc_custom_1524294676351{margin-top: 0px !important;padding-top: 0px !important;}" offset="vc_col-lg-4 vc_col-md-6 vc_hidden-xs"][otf_promo_banner select_image_source="external" v_align="justify-content-end" external_link_photo="http://demo3.wpopal.com/boost/wp-content/uploads/2018/01/banner_07_06-1.jpg"][vc_custom_heading text="THE BEST" font_container="tag:h3|font_size:48px|text_align:left|color:%23ffffff|line_height:1" use_theme_fonts="yes" enable_underline_wrap="" css=".vc_custom_1523936799512{margin-top: 0px !important;margin-right: 15px !important;margin-left: 15px !important;}"][vc_custom_heading text="TREADMILLS" font_container="tag:h3|font_size:64px|text_align:left|color:%239de76e|line_height:1" use_theme_fonts="yes" enable_underline_wrap="" css=".vc_custom_1523936808847{margin-top: -5px !important;margin-right: 15px !important;margin-left: 15px !important;}"][vc_column_text el_class="typo-heading" css=".vc_custom_1523936818603{margin-right: 15px !important;margin-bottom: 15px !important;margin-left: 15px !important;}"]<span style="font-weight: 300; font-size: 24px; color: #ffffff;">For the best results</span>[/vc_column_text][vc_btn title="Shop Now!" style="button-secondary" shape="round" align="left" css=".vc_custom_1524016601380{margin-right: 15px !important;margin-left: 15px !important;}"][vc_empty_space height="20px"][/otf_promo_banner][/vc_column][vc_column css=".vc_custom_1524017274421{margin-top: 0px !important;padding-top: 0px !important;}" offset="vc_col-lg-4 vc_col-md-6 vc_hidden-xs"][otf_promo_banner select_image_source="external" v_align="justify-content-end" external_link_photo="http://demo3.wpopal.com/boost/wp-content/uploads/2018/01/banner_07_06-2.jpg"][vc_column_text el_class="typo-heading" css=".vc_custom_1523937764866{margin-right: 15px !important;margin-bottom: 15px !important;margin-left: 15px !important;}"]<span style="font-size: 58px;"><span style="color: #ffffff;">EXERCISE</span> <span style="color: #e25151;">BIKES</span></span>[/vc_column_text][vc_column_text el_class="typo-heading" css=".vc_custom_1523937209626{margin-right: 15px !important;margin-bottom: 15px !important;margin-left: 15px !important;}"]<span style="font-weight: 300; font-size: 24px; color: #ffffff;">Pedal Your Way to a
+Healthier You</span>[/vc_column_text][vc_btn title="Shop Now!" style="button-secondary" shape="round" align="left" css=".vc_custom_1524016613681{margin-right: 15px !important;margin-left: 15px !important;}"][vc_empty_space height="20px"][/otf_promo_banner][/vc_column][vc_column css=".vc_custom_1524017336477{margin-top: 0px !important;padding-top: 0px !important;}" offset="vc_col-lg-4 vc_col-md-6 vc_hidden-md vc_hidden-xs"][otf_promo_banner select_image_source="external" v_align="justify-content-end" external_link_photo="http://demo3.wpopal.com/boost/wp-content/uploads/2018/01/banner_07_06-3.jpg"][vc_custom_heading text="PRODUCT " font_container="tag:h3|font_size:36px|text_align:left|color:%23ffffff|line_height:1" use_theme_fonts="yes" enable_underline_wrap="" css=".vc_custom_1523937991508{margin-top: 0px !important;margin-right: 15px !important;margin-bottom: 8px !important;margin-left: 15px !important;}"][vc_column_text el_class="typo-heading" css=".vc_custom_1523937948182{margin-right: 15px !important;margin-bottom: 15px !important;margin-left: 15px !important;}"]<span style="font-size: 58px;"><span style="color: #ffffff;">HOME</span> <span style="color: #e25151;">GYMS</span></span>[/vc_column_text][vc_btn title="Shop Now!" style="button-secondary" shape="round" align="left" css=".vc_custom_1524016622737{margin-right: 15px !important;margin-left: 15px !important;}"][vc_empty_space height="20px"][/otf_promo_banner][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1524024084625{background-image: url(http://demo3.wpopal.com/boost/wp-content/uploads/2018/01/banner_07_06-4.jpg) !important;}"][vc_column][vc_single_image image="60" img_size="32x16" alignment="center" css=".vc_custom_1523947448106{margin-bottom: 25px !important;}"][vc_custom_heading text="WHAT OUR CUSTOMERS ARE SAYING" font_container="tag:h3|font_size:48|text_align:center|color:%23ffffff" use_theme_fonts="yes" enable_underline_wrap=""][otf_testimonial columns="1" auto_play="true" loop="true" interval_timeout="5000" show_dot="true" show_nav="" css=".vc_custom_1523947166910{margin-top: -20px !important;}"][otf_testimonial_item image_size="70x70" name="John Doe" job="Customer"]Sports is putting the finishing touches and systems in place in its new 3500 square meter Regional Distribution Centre located in the Bang Pli Industrial Estate in New York.[/otf_testimonial_item][otf_testimonial_item image_size="70x70" name="John Doe" job="Customer"]Sports is putting the finishing touches and systems in place in its new 3500 square meter Regional Distribution Centre located in the Bang Pli Industrial Estate in New York.[/otf_testimonial_item][otf_testimonial_item image_size="70x70" name="John Doe" job="Customer"]Sports is putting the finishing touches and systems in place in its new 3500 square meter Regional Distribution Centre located in the Bang Pli Industrial Estate in New York.[/otf_testimonial_item][/otf_testimonial][/vc_column][/vc_row][vc_row css=".vc_custom_1523948418786{padding-top: 20px !important;padding-bottom: 50px !important;}"][vc_column][vc_empty_space height="50px"][vc_custom_heading text="TOP SELLING PRODUCTS" font_container="tag:h3|font_size:36|text_align:left" use_theme_fonts="yes" enable_underline_wrap="" type="custom" photo="7524" css=".vc_custom_1524023227826{margin-bottom: 20px !important;}"][vc_row_inner][vc_column_inner offset="vc_hidden-xs"][best_selling_products per_page="12" columns="4" style="carousel" show_dot="" show_nav="true" nav_position="top-right" nav_style="style-2"][/vc_column_inner][/vc_row_inner][vc_row_inner][vc_column_inner offset="vc_hidden-lg vc_hidden-md vc_hidden-sm"][best_selling_products per_page="12" columns="4" style="carousel" show_dot="" show_nav="true" nav_style="style-2"][/vc_column_inner][/vc_row_inner][vc_empty_space height="50px"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1524024059436{background-image: url(http://demo3.wpopal.com/boost/wp-content/uploads/2018/01/banner_07_06-5.jpg) !important;}"][vc_column][vc_empty_space height="50px"][vc_custom_heading text="TOP SELLING PRODUCTS" font_container="tag:h3|font_size:36|text_align:left|color:%23ffffff" use_theme_fonts="yes" enable_underline_wrap="" type="custom" photo="7524" css=".vc_custom_1524023989156{margin-bottom: 20px !important;}"][otf_product_deals per_page="2" columns="2" style="list" show_rating="" show_category="1" show_except="" image_size="290x350"][vc_empty_space height="50px"][/vc_column][/vc_row][vc_row css=".vc_custom_1523948418786{padding-top: 20px !important;padding-bottom: 50px !important;}"][vc_column][vc_empty_space height="50px"][vc_custom_heading text="FEATURED PRODUCTS" font_container="tag:h3|font_size:36|text_align:left" use_theme_fonts="yes" enable_underline_wrap="" type="custom" photo="7524" css=".vc_custom_1524023247265{margin-bottom: 20px !important;}"][vc_row_inner][vc_column_inner offset="vc_hidden-xs"][featured_products per_page="12" columns="4" orderby="" order="" style="carousel" show_dot="" show_nav="true" nav_position="top-right" nav_style="style-2"][/vc_column_inner][/vc_row_inner][vc_row_inner][vc_column_inner offset="vc_hidden-lg vc_hidden-md vc_hidden-sm"][featured_products per_page="12" columns="4" orderby="" order="" style="carousel" show_dot="" show_nav="true" nav_style="style-2"][/vc_column_inner][/vc_row_inner][vc_empty_space height="50px"][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1523951502387{padding-top: 20px !important;padding-bottom: 50px !important;background-color: #f7f7f7 !important;}"][vc_column][vc_empty_space height="50px"][vc_custom_heading text="SHOP BY CATEGORIES" font_container="tag:h3|font_size:36|text_align:left" use_theme_fonts="yes" enable_underline_wrap="" type="custom" photo="7524" css=".vc_custom_1524023261473{margin-bottom: 20px !important;}"][vc_row_inner gap="30" css=".vc_custom_1523954055390{margin-right: 0px !important;margin-left: 0px !important;}"][vc_column_inner width="1/3" column_alignment="text-center" css=".vc_custom_1523954520553{padding-top: 0px !important;padding-right: 30px !important;padding-left: 30px !important;background-color: #ffffff !important;}"][vc_single_image source="external_link" css=".vc_custom_1524295067164{margin-right: -30px !important;margin-left: -30px !important;}" custom_src="http://demo3.wpopal.com/boost/wp-content/uploads/2018/01/category_07_06-1.jpg"][vc_custom_heading text="Product Treadmills" font_container="tag:h3|font_size:28|text_align:center|color:%23f7ab00" use_theme_fonts="yes" enable_underline_wrap="" css=".vc_custom_1523955336276{margin-bottom: 20px !important;}"][vc_wp_custommenu opal_custommenu_columns="1" nav_menu="209"][/vc_column_inner][vc_column_inner width="1/3" column_alignment="text-center" css=".vc_custom_1523954537128{padding-top: 0px !important;padding-right: 30px !important;padding-left: 30px !important;background-color: #ffffff !important;}"][vc_single_image source="external_link" css=".vc_custom_1524295078204{margin-right: -30px !important;margin-left: -30px !important;}" custom_src="http://demo3.wpopal.com/boost/wp-content/uploads/2018/01/category_07_06-2.jpg"][vc_custom_heading text="Exercise Bikes" font_container="tag:h3|font_size:28|text_align:center|color:%23f7ab00" use_theme_fonts="yes" enable_underline_wrap="" css=".vc_custom_1523955374989{margin-bottom: 20px !important;}"][vc_wp_custommenu opal_custommenu_columns="1" nav_menu="209"][/vc_column_inner][vc_column_inner width="1/3" column_alignment="text-center" css=".vc_custom_1523954554481{padding-top: 0px !important;padding-right: 30px !important;padding-left: 30px !important;background-color: #ffffff !important;}"][vc_single_image source="external_link" css=".vc_custom_1524295090976{margin-right: -30px !important;margin-left: -30px !important;}" custom_src="http://demo3.wpopal.com/boost/wp-content/uploads/2018/01/category_07_06-3.jpg"][vc_custom_heading text="Home Gyms" font_container="tag:h3|font_size:28|text_align:center|color:%23f7ab00" use_theme_fonts="yes" enable_underline_wrap="" css=".vc_custom_1523955389811{margin-bottom: 20px !important;}"][vc_wp_custommenu opal_custommenu_columns="1" nav_menu="209"][/vc_column_inner][/vc_row_inner][vc_empty_space height="50px"][/vc_column][/vc_row][vc_row full_width="stretch_row" colors_schema="light" css=".vc_custom_1523955856903{padding-top: 20px !important;padding-bottom: 50px !important;background-color: #0b1739 !important;}"][vc_column width="1/4"][otf_featured_box boxed="" text_align="text-center" title="Shipping and Delivery" title_size="24px" type="custom" photo="60" i_size="46px" color="#ffffff" css=".vc_custom_1523957836107{margin-bottom: 25px !important;}"]The other day the grass was brown, now it’s green because I ain’t give[/otf_featured_box][/vc_column][vc_column width="1/4"][otf_featured_box boxed="" text_align="text-center" title="Payment Methods" title_size="24px" type="custom" photo="60" i_size="46px" color="#ffffff" css=".vc_custom_1523957890166{margin-bottom: 25px !important;}"]The other day the grass was brown, now it’s green because I ain’t give[/otf_featured_box][/vc_column][vc_column width="1/4"][otf_featured_box boxed="" text_align="text-center" title="Responsive Design" title_size="24px" type="custom" photo="60" i_size="46px" color="#ffffff" css=".vc_custom_1523957905271{margin-bottom: 25px !important;}"]The other day the grass was brown, now it’s green because I ain’t give[/otf_featured_box][/vc_column][vc_column width="1/4"][otf_featured_box boxed="" text_align="text-center" title="24/7 Support Online" title_size="24px" type="custom" photo="60" i_size="46px" color="#ffffff" css=".vc_custom_1523957928293{margin-bottom: 25px !important;}"]The other day the grass was brown, now it’s green because I ain’t give[/otf_featured_box][/vc_column][/vc_row][vc_row full_width="stretch_row" css=".vc_custom_1523956174403{padding-top: 20px !important;padding-bottom: 50px !important;background-color: #f7f7f7 !important;}"][vc_column][vc_empty_space height="50px"][vc_custom_heading text="LATEST NEWS" font_container="tag:h3|font_size:36|text_align:left" use_theme_fonts="yes" enable_underline_wrap="" type="custom" photo="7524"][vc_basic_grid post_type="post" max_items="3" item="7197" grid_id="vc_gid:1526442564283-c3f4e023-c7ce-3"][/vc_column][/vc_row]]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>7522</wp:post_id>
+  <wp:post_date>2018-04-18 03:37:12</wp:post_date>
+  <wp:post_date_gmt>2018-04-18 03:37:12</wp:post_date_gmt>
+  <wp:comment_status>closed</wp:comment_status>
+  <wp:ping_status>closed</wp:ping_status>
+  <wp:post_name>home-07_06</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>page</wp:post_type>
+  <wp:post_password/>
+  <wp:is_sticky>0</wp:is_sticky>
+  <wp:postmeta>
+    <wp:meta_key>_vc_post_settings</wp:meta_key>
+    <wp:meta_value><![CDATA[a:1:{s:10:"vc_grid_id";a:1:{s:10:"shortcodes";a:1:{s:29:"1526442564283-c3f4e023-c7ce-3";a:3:{s:3:"tag";s:13:"vc_basic_grid";s:4:"atts";a:4:{s:9:"post_type";s:4:"post";s:9:"max_items";s:1:"3";s:4:"item";s:4:"7197";s:7:"grid_id";s:36:"vc_gid:1526442564283-c3f4e023-c7ce-3";}s:7:"content";s:0:"";}}}}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_edit_last</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wp_page_template</wp:meta_key>
+    <wp:meta_value><![CDATA[default]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>slide_template</wp:meta_key>
+    <wp:meta_value><![CDATA[default]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpb_vc_js_status</wp:meta_key>
+    <wp:meta_value><![CDATA[true]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>_wpb_shortcodes_custom_css</wp:meta_key>
+    <wp:meta_value><![CDATA[.vc_custom_1524017165103{background-image: url(http://demo3.wpopal.com/boost/wp-content/uploads/2018/01/bg_07_06-11.png) !important;}.vc_custom_1524024084625{background-image: url(http://demo3.wpopal.com/boost/wp-content/uploads/2018/01/banner_07_06-4.jpg) !important;}.vc_custom_1523948418786{padding-top: 20px !important;padding-bottom: 50px !important;}.vc_custom_1524024059436{background-image: url(http://demo3.wpopal.com/boost/wp-content/uploads/2018/01/banner_07_06-5.jpg) !important;}.vc_custom_1523948418786{padding-top: 20px !important;padding-bottom: 50px !important;}.vc_custom_1523951502387{padding-top: 20px !important;padding-bottom: 50px !important;background-color: #f7f7f7 !important;}.vc_custom_1523955856903{padding-top: 20px !important;padding-bottom: 50px !important;background-color: #0b1739 !important;}.vc_custom_1523956174403{padding-top: 20px !important;padding-bottom: 50px !important;background-color: #f7f7f7 !important;}.vc_custom_1523866505541{padding-top: 0px !important;padding-right: 80px !important;padding-bottom: 100px !important;padding-left: 80px !important;}.vc_custom_1524018542635{margin-top: 0px !important;padding-top: 0px !important;}.vc_custom_1524294676351{margin-top: 0px !important;padding-top: 0px !important;}.vc_custom_1524017274421{margin-top: 0px !important;padding-top: 0px !important;}.vc_custom_1524017336477{margin-top: 0px !important;padding-top: 0px !important;}.vc_custom_1523936799512{margin-top: 0px !important;margin-right: 15px !important;margin-left: 15px !important;}.vc_custom_1523936808847{margin-top: -5px !important;margin-right: 15px !important;margin-left: 15px !important;}.vc_custom_1523936818603{margin-right: 15px !important;margin-bottom: 15px !important;margin-left: 15px !important;}.vc_custom_1524016601380{margin-right: 15px !important;margin-left: 15px !important;}.vc_custom_1523937764866{margin-right: 15px !important;margin-bottom: 15px !important;margin-left: 15px !important;}.vc_custom_1523937209626{margin-right: 15px !important;margin-bottom: 15px !important;margin-left: 15px !important;}.vc_custom_1524016613681{margin-right: 15px !important;margin-left: 15px !important;}.vc_custom_1523937991508{margin-top: 0px !important;margin-right: 15px !important;margin-bottom: 8px !important;margin-left: 15px !important;}.vc_custom_1523937948182{margin-right: 15px !important;margin-bottom: 15px !important;margin-left: 15px !important;}.vc_custom_1524016622737{margin-right: 15px !important;margin-left: 15px !important;}.vc_custom_1523947448106{margin-bottom: 25px !important;}.vc_custom_1523947166910{margin-top: -20px !important;}.vc_custom_1524023227826{margin-bottom: 20px !important;}.vc_custom_1524023989156{margin-bottom: 20px !important;}.vc_custom_1524023247265{margin-bottom: 20px !important;}.vc_custom_1524023261473{margin-bottom: 20px !important;}.vc_custom_1523954055390{margin-right: 0px !important;margin-left: 0px !important;}.vc_custom_1523954520553{padding-top: 0px !important;padding-right: 30px !important;padding-left: 30px !important;background-color: #ffffff !important;}.vc_custom_1523954537128{padding-top: 0px !important;padding-right: 30px !important;padding-left: 30px !important;background-color: #ffffff !important;}.vc_custom_1523954554481{padding-top: 0px !important;padding-right: 30px !important;padding-left: 30px !important;background-color: #ffffff !important;}.vc_custom_1524295067164{margin-right: -30px !important;margin-left: -30px !important;}.vc_custom_1523955336276{margin-bottom: 20px !important;}.vc_custom_1524295078204{margin-right: -30px !important;margin-left: -30px !important;}.vc_custom_1523955374989{margin-bottom: 20px !important;}.vc_custom_1524295090976{margin-right: -30px !important;margin-left: -30px !important;}.vc_custom_1523955389811{margin-bottom: 20px !important;}.vc_custom_1523957836107{margin-bottom: 25px !important;}.vc_custom_1523957890166{margin-bottom: 25px !important;}.vc_custom_1523957905271{margin-bottom: 25px !important;}.vc_custom_1523957928293{margin-bottom: 25px !important;}]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>otf_layout</wp:meta_key>
+    <wp:meta_value><![CDATA[1c]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>otf_sidebar_width</wp:meta_key>
+    <wp:meta_value><![CDATA[320]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>otf_enable_page_heading</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>otf_padding_top</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>otf_padding_bottom</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>otf_enable_custom_header</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>otf_header_layout</wp:meta_key>
+    <wp:meta_value><![CDATA[header-07_06]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>otf_enable_breadcrumb</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>otf_enable_custom_footer</wp:meta_key>
+    <wp:meta_value><![CDATA[1]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>otf_footer_padding_top</wp:meta_key>
+    <wp:meta_value><![CDATA[0]]></wp:meta_value>
+  </wp:postmeta>
+  <wp:postmeta>
+    <wp:meta_key>otf_footer_layout</wp:meta_key>
+    <wp:meta_value><![CDATA[7520]]></wp:meta_value>
+  </wp:postmeta>
+</item>
+
+    </channel>
+</rss>

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="rot-052" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g>
+	<g>
+		<rect x="15" y="33" style="fill:#F4C70E;" width="6" height="10"/>
+	</g>
+	<g>
+		<rect x="43" y="33" style="fill:#F4C70E;" width="6" height="10"/>
+	</g>
+	<g>
+		<rect x="39" y="3" style="fill:#F4C70E;" width="6" height="14"/>
+	</g>
+	<g>
+		<path style="fill:#333333;" d="M63,59v-2h-2V31h-2V1H25v12H5v18H3v26H1v2h2v2H1v2h62v-2h-2v-2H63z M33,57V33h26v24H33z M29,59v2H9    v-2H29z M31,59h2v2h-2V59z M35,59h20v2H35V59z M27,3h30v28H33h-1h-3V13h-2V3z M7,15h20v16H7V15z M5,33h26v24H5V33z M5,59h2v2H5V59    z M59,61h-2v-2h2V61z"/>
+		<rect x="27" y="53" style="fill:#333333;" width="2" height="2"/>
+		<rect x="23" y="53" style="fill:#333333;" width="2" height="2"/>
+		<rect x="19" y="53" style="fill:#333333;" width="2" height="2"/>
+		<rect x="27" y="49" style="fill:#333333;" width="2" height="2"/>
+		<rect x="23" y="49" style="fill:#333333;" width="2" height="2"/>
+		<rect x="27" y="45" style="fill:#333333;" width="2" height="2"/>
+		<rect x="55" y="53" style="fill:#333333;" width="2" height="2"/>
+		<rect x="51" y="53" style="fill:#333333;" width="2" height="2"/>
+		<rect x="47" y="53" style="fill:#333333;" width="2" height="2"/>
+		<rect x="55" y="49" style="fill:#333333;" width="2" height="2"/>
+		<rect x="51" y="49" style="fill:#333333;" width="2" height="2"/>
+		<rect x="55" y="45" style="fill:#333333;" width="2" height="2"/>
+		<rect x="53" y="27" style="fill:#333333;" width="2" height="2"/>
+		<rect x="49" y="27" style="fill:#333333;" width="2" height="2"/>
+		<rect x="45" y="27" style="fill:#333333;" width="2" height="2"/>
+		<rect x="53" y="23" style="fill:#333333;" width="2" height="2"/>
+		<rect x="49" y="23" style="fill:#333333;" width="2" height="2"/>
+		<rect x="53" y="19" style="fill:#333333;" width="2" height="2"/>
+	</g>
+	<g>
+		<rect x="15" y="15" style="fill:#F4C70E;" width="4" height="10"/>
+	</g>
+</g>
+
+	</svg>

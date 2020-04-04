@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="rot-128" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g>
+	<g>
+		<rect x="5" y="43" style="fill:#F4C70E;" width="32" height="12"/>
+	</g>
+	<g>
+		<path style="fill:#333333;" d="M33,46h-6v6h6V46z M31,50h-2v-2h2V50z"/>
+		<polygon style="fill:#333333;" points="23,52 25,52 25,46 22,46 22,48 23,48   "/>
+		<path style="fill:#333333;" d="M61,37c1.103,0,2-0.897,2-2v-4h-2V1H3v30H1v4c0,1.103,0.897,2,2,2h12v2H1v17    c0,1.302,0.839,2.402,2,2.816V63h8v-4h20v4h8v-4h14v4h8v-4h2V39H49v-2H61z M59,31H41V3h5v12h8V3h5V31z M48,3h4v10h-4V3z M5,3h34    v28H5V3z M3,33h58v2H3V33z M3,41h36v15c0,0.551-0.448,1-1,1h-2H4c-0.552,0-1-0.449-1-1V41z M9,61H5v-2h4V61z M33,61v-2h3h1v2H33z     M59,61h-4v-2h4V61z M61,57H40.816C40.928,56.686,41,56.352,41,56V41h20V57z M47,39h-6h-1H17v-2h30V39z"/>
+		<rect x="35" y="27" style="fill:#333333;" width="2" height="2"/>
+		<rect x="31" y="27" style="fill:#333333;" width="2" height="2"/>
+		<rect x="27" y="27" style="fill:#333333;" width="2" height="2"/>
+		<rect x="35" y="23" style="fill:#333333;" width="2" height="2"/>
+		<rect x="35" y="19" style="fill:#333333;" width="2" height="2"/>
+		<rect x="31" y="23" style="fill:#333333;" width="2" height="2"/>
+	</g>
+</g>
+
+	</svg>

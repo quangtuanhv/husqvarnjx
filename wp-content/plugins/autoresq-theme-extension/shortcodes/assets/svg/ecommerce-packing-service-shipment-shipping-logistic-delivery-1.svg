@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="rot-072" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g>
+	<g>
+		<g>
+			<rect x="16" y="34" style="fill:#F4C70E;" width="6" height="10"/>
+		</g>
+		<g>
+			<rect x="42" y="34" style="fill:#F4C70E;" width="6" height="10"/>
+		</g>
+		<g>
+			<rect x="16" y="9" style="fill:#F4C70E;" width="6" height="10"/>
+		</g>
+		<g>
+			<rect x="42" y="9" style="fill:#F4C70E;" width="6" height="10"/>
+		</g>
+	</g>
+	<g>
+		<path style="fill:#333333;" d="M61,57V1h-6v6H33v21h-2V7H9V1H3v56H1v6h10v-6H9v-2h46v2h-2v6h10v-6H61z M55,32H33v21h-2V32H9v-2h46    V32z M35,9h20v19H35V9z M29,9v19H9V9H29z M9,61H3v-2h6V61z M5,57V3h2v54H5z M9,34h20v19H9V34z M35,53V34h20v19H35z M57,3h2v54h-2    V3z M61,61h-6v-2h6V61z"/>
+		<rect x="25" y="49" style="fill:#333333;" width="2" height="2"/>
+		<rect x="21" y="49" style="fill:#333333;" width="2" height="2"/>
+		<rect x="25" y="45" style="fill:#333333;" width="2" height="2"/>
+		<rect x="51" y="49" style="fill:#333333;" width="2" height="2"/>
+		<rect x="47" y="49" style="fill:#333333;" width="2" height="2"/>
+		<rect x="51" y="45" style="fill:#333333;" width="2" height="2"/>
+		<rect x="25" y="24" style="fill:#333333;" width="2" height="2"/>
+		<rect x="21" y="24" style="fill:#333333;" width="2" height="2"/>
+		<rect x="25" y="20" style="fill:#333333;" width="2" height="2"/>
+		<rect x="51" y="24" style="fill:#333333;" width="2" height="2"/>
+		<rect x="47" y="24" style="fill:#333333;" width="2" height="2"/>
+		<rect x="51" y="20" style="fill:#333333;" width="2" height="2"/>
+	</g>
+</g>
+
+	</svg>

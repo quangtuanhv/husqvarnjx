@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="rot-096" x="0px" y="0px" viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<g>
+	<g>
+		<circle style="fill:#F4C70E;" cx="17" cy="32" r="5"/>
+	</g>
+	<g>
+		<rect x="47" y="41" style="fill:#F4C70E;" width="4" height="10"/>
+	</g>
+	<g>
+		<rect x="47" y="19" style="fill:#F4C70E;" width="4" height="10"/>
+	</g>
+	<g>
+		<path style="fill:#333333;" d="M24,19h-1.356C24.688,17.349,26,14.826,26,12V9h3V7h-3c0-3.309-2.691-6-6-6h-6    c-3.309,0-6,2.691-6,6v2v3c0,2.826,1.312,5.349,3.356,7H10c-4.962,0-9,4.038-9,9v10c0,3.309,2.691,6,6,6v19h20V44    c3.309,0,6-2.691,6-6V28C33,23.038,28.962,19,24,19z M14,3h6c2.206,0,4,1.794,4,4H10C10,4.794,11.794,3,14,3z M10,12V9h14v3    c0,3.86-3.14,7-7,7S10,15.86,10,12z M20.238,21L17,23.698L13.762,21H20.238z M3,38v-8h4v12C4.794,42,3,40.206,3,38z M16,46v11H9    V42h16v15h-7V46H16z M9,61v-2h7v2H9z M18,61v-2h7v2H18z M27,42V30h4v8C31,40.206,29.206,42,27,42z M27,28v-2h-2v14H9V26H7v2H3    c0-3.86,3.14-7,7-7h0.638L17,26.302L23.362,21H24c3.86,0,7,3.14,7,7H27z"/>
+		<rect x="57" y="57" style="fill:#333333;" width="2" height="2"/>
+		<rect x="53" y="57" style="fill:#333333;" width="2" height="2"/>
+		<rect x="57" y="53" style="fill:#333333;" width="2" height="2"/>
+		<path style="fill:#333333;" d="M35,17v22v1v23h28V40v-1V17H35z M61,61H37V41h24V61z M37,39V19h24v20H37z"/>
+		<rect x="57" y="35" style="fill:#333333;" width="2" height="2"/>
+		<rect x="53" y="35" style="fill:#333333;" width="2" height="2"/>
+		<rect x="57" y="31" style="fill:#333333;" width="2" height="2"/>
+	</g>
+</g>
+
+	</svg>

@@ -1,0 +1,288 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Category Accordion v2.0\n"
+"POT-Creation-Date: 2017-09-22 18:48+0530\n"
+"PO-Revision-Date: 2017-09-22 20:03+0530\n"
+"Last-Translator: \n"
+"Language-Team: TechieResource Team <support@techieresource.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: inc/trwca-functions.php:294
+msgid "No Categories Found"
+msgstr ""
+
+#: inc/trwca-widget.php:31
+msgid "list WooCommerce product categories and subcategories into a Accordion."
+msgstr ""
+
+#: inc/trwca-widget.php:33
+msgid "WC Category Accordion"
+msgstr ""
+
+#: inc/trwca-widget.php:118
+msgid "Title:"
+msgstr ""
+
+#: inc/trwca-widget.php:121
+msgid "Categories"
+msgstr ""
+
+#: inc/trwca-widget.php:126
+msgid "Enable RTL"
+msgstr ""
+
+#: inc/trwca-widget.php:132
+msgid "Enable Products Count:"
+msgstr ""
+
+#: inc/trwca-widget.php:137
+msgid "Hide If Empty:"
+msgstr ""
+
+#: inc/trwca-widget.php:140
+msgid "Sort by:"
+msgstr ""
+
+#: inc/trwca-widget.php:142
+msgid "Id"
+msgstr ""
+
+#: inc/trwca-widget.php:143
+msgid "Name"
+msgstr ""
+
+#: inc/trwca-widget.php:144
+msgid "Slug"
+msgstr ""
+
+#: inc/trwca-widget.php:149
+msgid "order:"
+msgstr ""
+
+#: inc/trwca-widget.php:151
+msgid "Ascending"
+msgstr ""
+
+#: inc/trwca-widget.php:152
+msgid "Descending"
+msgstr ""
+
+#: inc/trwca-widget.php:156
+msgid "Level:"
+msgstr ""
+
+#: inc/trwca-widget.php:160
+msgid "All"
+msgstr ""
+
+#: inc/trwca-widget.php:168
+msgid "Accordion Event Type:"
+msgstr ""
+
+#: inc/trwca-widget.php:170
+msgid "Click"
+msgstr ""
+
+#: inc/trwca-widget.php:171
+msgid "Hover"
+msgstr ""
+
+#: inc/trwca-widget.php:175
+msgid "Accordion Type:"
+msgstr ""
+
+#: inc/trwca-widget.php:177
+msgid "Toggle"
+msgstr ""
+
+#: inc/trwca-widget.php:178
+msgid "Collapsed"
+msgstr ""
+
+#: inc/trwca-widget.php:182
+msgid "Accordion Icon:"
+msgstr ""
+
+#: inc/trwca-widget.php:184
+msgid "Angle"
+msgstr ""
+
+#: inc/trwca-widget.php:185
+msgid "Double angle"
+msgstr ""
+
+#: inc/trwca-widget.php:186
+msgid "Plus"
+msgstr ""
+
+#: inc/trwca-widget.php:187
+msgid "Plus Circle"
+msgstr ""
+
+#: inc/trwca-widget.php:188
+msgid "Plus Square1"
+msgstr ""
+
+#: inc/trwca-widget.php:189
+msgid "Plus Square2"
+msgstr ""
+
+#: inc/trwca-widget.php:190
+msgid "Circle arrow style1"
+msgstr ""
+
+#: inc/trwca-widget.php:191
+msgid "Circle arrow style2"
+msgstr ""
+
+#: inc/trwca-widget.php:192
+msgid "Arrow right"
+msgstr ""
+
+#: inc/trwca-widget.php:193
+msgid "Caret"
+msgstr ""
+
+#: inc/trwca-widget.php:194
+msgid "Caret Square"
+msgstr ""
+
+#: inc/trwca-widget.php:195
+msgid "Chevron"
+msgstr ""
+
+#: inc/trwca-widget.php:196
+msgid "Chevron Circle"
+msgstr ""
+
+#: inc/trwca-widget.php:197
+msgid "Hand"
+msgstr ""
+
+#: inc/trwca-widget.php:198
+msgid "Circle"
+msgstr ""
+
+#: inc/trwca-widget.php:199
+msgid "Heart"
+msgstr ""
+
+#: inc/trwca-widget.php:200
+msgid "Level up"
+msgstr ""
+
+#: inc/trwca-widget.php:201
+msgid "Square"
+msgstr ""
+
+#: inc/trwca-widget.php:202
+msgid "Rotate"
+msgstr ""
+
+#: inc/trwca-widget.php:208
+msgid "Accordion Theme:"
+msgstr ""
+
+#: inc/trwca-widget.php:210
+msgid "Classic"
+msgstr ""
+
+#: inc/trwca-widget.php:211
+msgid "Light"
+msgstr ""
+
+#: inc/trwca-widget.php:212
+msgid "Red"
+msgstr ""
+
+#: inc/trwca-widget.php:213
+msgid "Green"
+msgstr ""
+
+#: inc/trwca-widget.php:214
+msgid "Turquoise"
+msgstr ""
+
+#: inc/trwca-widget.php:215
+msgid "Blue"
+msgstr ""
+
+#: inc/trwca-widget.php:216
+msgid "Purple"
+msgstr ""
+
+#: inc/trwca-widget.php:217
+msgid "Pink"
+msgstr ""
+
+#: inc/trwca-widget.php:218
+msgid "Yellow"
+msgstr ""
+
+#: inc/trwca-widget.php:219
+msgid "Brown"
+msgstr ""
+
+#: inc/trwca-widget.php:220
+msgid "Orange"
+msgstr ""
+
+#: inc/trwca-widget.php:221
+msgid "Dark Blue"
+msgstr ""
+
+#: inc/trwca-widget.php:222
+msgid "Dark"
+msgstr ""
+
+#: inc/trwca-widget.php:228
+msgid "Enable Highlight / Open a Category"
+msgstr ""
+
+#: inc/trwca-widget.php:232
+msgid "Disable Parent links"
+msgstr ""
+
+#: inc/trwca-widget.php:238
+msgid "Disable All Parent links"
+msgstr ""
+
+#: inc/trwca-widget.php:244
+msgid "Show subcategories only"
+msgstr ""
+
+#: inc/trwca-widget.php:247
+msgid "Default Category Id to open: "
+msgstr ""
+
+#: inc/trwca-widget.php:253
+msgid "Exclude Category (ID): "
+msgstr ""
+
+#: inc/trwca-widget.php:259
+msgid "Accodion Speed:"
+msgstr ""
+
+#: woocommerce-category-accordion.php:25
+#, php-format
+msgid ""
+"WooCommerce Category Accordion Plugin is enabled but not effective. It "
+"requires <a href=\"%s\" target=\"_blank\">WooCommerce</a> in order to work."
+msgstr ""
+
+#: woocommerce-category-accordion.php:68
+msgid "Docs"
+msgstr ""
+
+#: woocommerce-category-accordion.php:69
+msgid "Support"
+msgstr ""

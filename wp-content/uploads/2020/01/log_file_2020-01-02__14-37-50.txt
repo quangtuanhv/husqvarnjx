@@ -1,0 +1,51 @@
+
+---Downloaded files---
+The import files for: Gym Store were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://husqvarnareunion.com
+Data file = /home/husqvarnjx/www/wp-content/uploads/2020/01/demo-content-import-file_2020-01-02__14-37-50.xml
+Widget file = /home/husqvarnjx/www/wp-content/uploads/2020/01/demo-widgets-import-file_2020-01-02__14-37-50.json
+Customizer file = /home/husqvarnjx/www/wp-content/uploads/2020/01/demo-customizer-import-file_2020-01-02__14-37-50.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Woocommerce Shop : 
+
+Catégories de produit - Product categories - Imported
+Nuage d’étiquettes produits - Product tags - Imported
+
+Woocommerce Detail : 
+
+Catégories de produit - Product categories - Imported
+Nuage d’étiquettes produits - Product tags - Imported
+Panier - Cart - Imported
+Avis récents sur les produits - Recent reviews - Imported
+
+Blog Sidebar : 
+
+Articles récents - No Title - Imported
+Commentaires récents - No Title - Imported
+Archives - No Title - Imported
+Catégories - No Title - Imported
+Méta - No Title - Imported
+
+Off-canvas Menu : 
+
+Menu de navigation - No Title - Widget already exists
+
+Woocommerce Shop Filters : 
+
+Filtrer les produits par prix - Filter by price - Imported
+Filtrer les produits par attribut - Filter by Color - Imported
+Filtrer les produits par attribut - Filter by Size - Imported
+Filtrer les produits par note obtenue - Average rating - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

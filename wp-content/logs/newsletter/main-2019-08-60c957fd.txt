@@ -1,0 +1,2 @@
+19-08-2019 12:07:30 - ERROR - m: 16,3 MB, u: 0 - Blocked by transient newsletter_main_engine set 0 seconds ago
+22-08-2019 11:44:54 - ERROR - m: 15,8 MB, u: 0 - Blocked by transient newsletter_main_engine set 0 seconds ago

@@ -1,0 +1,65 @@
+== Changelog ==
+
+Plugin Name: WooCommerce Category Accordion
+
+=2.0=
+
+* RTL support Added
+
+* New Icons addded
+
+* New Accordion themes added
+
+* current category based navigation added(Show subcategory only)
+
+* Duplicate icon issue fixed
+
+* widget title warning fixed
+
+* compatible with PHP7
+
+
+
+=1.2.1=
+
+* Toggle / Collpase option support added
+
+* Hover / click Event support Added
+
+* Open a Category By Default option Added
+
+* HTTPS issue Fixed
+
+* 10 Color schems added.
+
+* 14 Font icons added.
+
+* Disable link on parent category option added.
+
+* Disable link on all parent categories option added.
+
+* Tinymce shortcode option added
+
+* Deprecated Function's removed.
+
+* Category Walker class Added
+
+
+=1.1=
+
+* Products count issue fixed.
+
+* Sort by ID, Name, Slug option added
+
+* Sort by  Ascending,  Descending option added
+
+* Level option added
+
+* Minor css changes.
+
+
+= 1.0 =
+
+*  Stable 1.0 Initial Release.
+
+

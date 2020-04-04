@@ -1,0 +1,7 @@
+i.mce-i-bs3_panel:before {
+    font-family: "dashicons";
+    content: "\f116";
+}
+.mce-window.mce-container.mce-trwca-panel .mce-container-body.mce-abs-layout {
+    overflow: hidden;
+}
